@@ -1,6 +1,6 @@
 <template>
   <div class="wheel_wrap">
-    <h1>AuthLab Salami - {{gift}}</h1>
+    <h1>AuthLab Salami</h1>
     
     <Wheel
       ref="wheel"
